@@ -209,13 +209,13 @@ section{
 
 @keyframes words {
     0%, 33%{
-        content: "Developer";
+        content: "Front End Developer";
     }
     34%, 66%{
         content: "Designer";
     }
     67%, 100%{
-        content: "Youtuber";
+        content: "Software Engineer";
     }
 }
 
